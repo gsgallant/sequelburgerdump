@@ -31,14 +31,14 @@
 			  
 			  {{#each burger}}
 			  	{{#if this.devoured}}
-			  		<div class="col-xs-5 text-center">
+			  		<div class="col-xs-4 text-center">
 						<form method="POST" action="/another?_method=PUT">
 							<button type="submit" name="burgerid" value={{this.id}} class="btn btn-danger btn-xs">Build Another</button>
 						</form>
 					</div>
-			  		
+			  		<div class="col-xs-6">
 			  		<h5 align="left">{{this.burger_name}}</h5>
-					
+					</div>
 					
 
 				{{/if}}
