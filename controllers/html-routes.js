@@ -24,11 +24,7 @@ module.exports = function(app){
 	    		// res.render('index',{burger});
 	    		res.redirect('/');
 	    	})
-		
 	});
 
-//get the burger cartoon image for the main view.
-	app.use('/image',function(req, res){
-		res.sendFile(path.join(__dirname + '/assets/images/burger.jpg'));
-	});
+
 }
