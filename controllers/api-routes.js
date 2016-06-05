@@ -24,7 +24,7 @@ module.exports = function(app){
         }
     });
 
-    //used sequelizze .update
+    //used sequelize .update
     app.put('/devour', function(req,res){
         sequelModelOfBurger.update(
             //set value to be updated
@@ -41,7 +41,7 @@ module.exports = function(app){
                 })
     });
     
-    //used sequelizze .update
+    //used sequelize .update
     app.put('/another', function(req,res){
             sequelModelOfBurger.update(
                 //set value to be update
