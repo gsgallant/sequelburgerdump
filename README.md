@@ -14,7 +14,7 @@ MYSQL, Sequelize, Handlebars, HTML, CSS
 
 
 #Comments
-I enjoyed writing this app very much!  I had even more fun created really unhealthy burgers and adding a "stomach pump" button at the top (the image).  I added a little more functionality than what the basic assignment called for and that really didn't add a lot more work but it added a lot more fun!
+I enjoyed writing this app very much!  I had even more fun creating really unhealthy burgers and adding a "stomach pump" button at the top (the image).  I added a little more functionality than what the basic assignment called for and that really didn't add a lot more work but it added a lot more fun!  Handlebars is really a cool way to render from the server and even though this app looks like it might use JQuery, it uses NO JQUERY!!!  All Handlebars!
 
 <p align="center">
 &copy; Greg Gallant
