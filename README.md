@@ -14,10 +14,10 @@ MYSQL, Sequelize, Handlebars, HTML, CSS
 
 
 #Comments
-I enjoyed writing this app very much!  I had even more fun creating really unhealthy burgers and adding a "stomach pump" button at the top (the image).  I added a little more functionality than what the basic assignment called for and that really didn't add a lot more work but it added a lot more fun!  Handlebars is really a cool way to render from the server and even though this app looks like it might use jQuery, it uses NO jQuery!!!  All Handlebars!
+I enjoyed writing this app very much!  I had even more fun creating really unhealthy burgers and adding a "stomach pump" button at the top (the image).  I added a little more functionality than what the first, non-sequel, burgerdump had and that really didn't add a lot more work but it added a lot more fun!  Handlebars is really a cool way to render from the server and even though this app looks like it might use jQuery, it uses NO jQuery!!!  All Handlebars!
 
 There is a non-sequelized version that came first.  This is where it can be seen:
-https://github.com/gsgallant/week-14-burger
+https://github.com/gsgallant/burgerdump
 
 <p align="center">
 &copy; Greg Gallant
