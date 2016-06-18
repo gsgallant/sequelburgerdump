@@ -10,7 +10,7 @@
 </p>
 
 #Technologies used:
-MYSQL, Sequelize, Handlebars, HTML, CSS
+Nodejs, MYSQL, Sequelize, Handlebars, HTML, CSS
 
 
 #Comments
